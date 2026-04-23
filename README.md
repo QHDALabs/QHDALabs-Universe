@@ -38,6 +38,13 @@ QHDALabs-Universe develops computational tools and theoretical frameworks to imp
 - Emergent time
 - Reproducible science
 
+## Independent research initiative exploring the frontiers of cosmology through:
+- precision measurement audits
+- propagation modeling
+- Bayesian inference
+- emergent time frameworks
+- open scientific infrastructure
+
 ## Status
 
 init alpha
