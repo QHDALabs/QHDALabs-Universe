@@ -40,4 +40,4 @@ QHDALabs-Universe develops computational tools and theoretical frameworks to imp
 
 ## Status
 
-Founding Phase
+init alpha
