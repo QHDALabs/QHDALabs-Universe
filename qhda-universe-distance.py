@@ -1,48 +1,48 @@
-/******************************************************************************
- * Project:        QHDALabs-Universe (Relational Cosmology & Emergent Time)
- * Module:         Cosmic Distance Bias Simulator with Qiskit
- * File:           qhda-universe-distance.py
- * Prototype:      Prototype 01: Cosmic Distance Bias Simulator
- *
- * Description:
- * ----------------------------------------------------------------------------
- * This module implements components of a quantum coherence control framework
- * specifically applied to the Cosmic Distance Bias Simulator.
- *
- * Primary Research Objectives:
- * ----------------------------------------------------------------------------
- * - Evaluate observed vs. idealized cosmological distances.
- * - Analyze propagation effects: medium density fluctuations, gravitational path delay.
- * - Mitigate decoherence in hybrid classical-quantum simulation pipelines.
- * - Model emergent local time modulation and observer relational offset.
- *
- * Key Responsibilities:
- * ----------------------------------------------------------------------------
- * - <responsibility_1>
- * - <responsibility_2>
- * - <responsibility_3>
- *
- * Dependencies:
- * ----------------------------------------------------------------------------
- * - Qiskit / Qiskit Aer / Python (NumPy, SciPy)
- *
- * Author:         Krzysztof W. Banasiewicz
- * Created:        2026
- * Last Modified:  11.04.2026
- *
- * License:
- * ----------------------------------------------------------------------------
- * Research-Centric Source-Available License (RCSAL) v2.0
- * See: krzyshtof.com/licences
- *
- * Notes:
- * ----------------------------------------------------------------------------
- * - This is a research sandbox for hypothesis testing; it is NOT a replacement
- * for standard cosmology.
- * - This file may be part of experimental or unstable research code.
- * - Results should be validated before production use.
- *
- ******************************************************************************/
+#
+# Project:        QHDALabs-Universe (Relational Cosmology & Emergent Time)
+# Module:         Cosmic Distance Bias Simulator with Qiskit
+# File:           qhda-universe-distance.py
+# Prototype:      Prototype 01: Cosmic Distance Bias Simulator
+#
+# Description:
+# ----------------------------------------------------------------------------
+# This module implements components of a quantum coherence control framework
+# specifically applied to the Cosmic Distance Bias Simulator.
+#
+# Primary Research Objectives:
+# ----------------------------------------------------------------------------
+# - Evaluate observed vs. idealized cosmological distances.
+# - Analyze propagation effects: medium density fluctuations, gravitational path delay.
+# - Mitigate decoherence in hybrid classical-quantum simulation pipelines.
+# - Model emergent local time modulation and observer relational offset.
+#
+# Key Responsibilities:
+# ----------------------------------------------------------------------------
+# - <responsibility_1>
+# - <responsibility_2>
+# - <responsibility_3>
+#
+# Dependencies:
+# ----------------------------------------------------------------------------
+# - Qiskit / Qiskit Aer / Python (NumPy, SciPy)
+#
+# Author:         Krzysztof W. Banasiewicz
+# Created:        2026
+# Last Modified:  11.04.2026
+#
+# License:
+# ----------------------------------------------------------------------------
+# Research-Centric Source-Available License (RCSAL) v2.0
+# See: krzyshtof.com/licences
+#
+# Notes:
+# ----------------------------------------------------------------------------
+# - This is a research sandbox for hypothesis testing; it is NOT a replacement
+# for standard cosmology.
+# - This file may be part of experimental or unstable research code.
+# - Results should be validated before production use.
+#
+
 
 import numpy as np
 import matplotlib.pyplot as plt
